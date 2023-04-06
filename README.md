@@ -1,3 +1,3 @@
 # Joining-Data-in-SQL
 
-DataCamp Track 
+DataCamp Skill Track 
